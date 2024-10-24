@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.Map;
 
 public class DatabaseOperation {
-    static final String DB_URL = "jdbc:mysql://localhost/movieticketbookingsystem";
+    static final String DB_URL = "jdbc:mysql://localhost/movieticketbooking";
     static final String USER = "root";
-    static final String PASS = "root";
+    static final String PASS = "Yash2130715@#";
 
     public Connection connectToDatabase(){
         Connection conn = null;
